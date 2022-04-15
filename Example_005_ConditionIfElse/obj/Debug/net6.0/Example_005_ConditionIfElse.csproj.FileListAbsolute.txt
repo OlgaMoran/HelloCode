@@ -1,0 +1,15 @@
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\Example_005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\Example_005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\Example_005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\Example_005_ConditionIfElse.AssemblyInfo.cs
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\Example_005_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\Мои документы\Examples\Example_005_ConditionIfElse\bin\Debug\net6.0\Example_005_ConditionIfElse.exe
+D:\Мои документы\Examples\Example_005_ConditionIfElse\bin\Debug\net6.0\Example_005_ConditionIfElse.deps.json
+D:\Мои документы\Examples\Example_005_ConditionIfElse\bin\Debug\net6.0\Example_005_ConditionIfElse.runtimeconfig.json
+D:\Мои документы\Examples\Example_005_ConditionIfElse\bin\Debug\net6.0\Example_005_ConditionIfElse.dll
+D:\Мои документы\Examples\Example_005_ConditionIfElse\bin\Debug\net6.0\Example_005_ConditionIfElse.pdb
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\Example_005_ConditionIfElse.dll
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\refint\Example_005_ConditionIfElse.dll
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\Example_005_ConditionIfElse.pdb
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\Example_005_ConditionIfElse.genruntimeconfig.cache
+D:\Мои документы\Examples\Example_005_ConditionIfElse\obj\Debug\net6.0\ref\Example_005_ConditionIfElse.dll
